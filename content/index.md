@@ -1,6 +1,17 @@
 ---
-title: Welcome to Quartz
+title: Japan Reiseführer
 ---
+Allgemeines:
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[-Tipps]]
+[[-Essen]]
+[[-Anreise]]
+[[-Unterkünfte]]
+[[-Fortbewegung]]
+[[-Conbini]] 
+
+Regionen: 
+
+[[Kansai]]
+[[Tokyo]]
+[[Hiroshima]]
