@@ -1,0 +1,2 @@
+[[Wichtige Phrasen]]
+[[Suica Card]]

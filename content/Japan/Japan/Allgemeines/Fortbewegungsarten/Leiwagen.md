@@ -1,0 +1,1 @@
+![[auto-small.png]]
